@@ -13,7 +13,7 @@
     - Swagger
 ### How to run this appplication:
 #### Required Tools:
-      - Docker, to create an application container.
+      - Docker, to create an image and its application container.
       - Any convenient terminal to work with Docker and the startup guide.
 #### Startup guide:
     1. Download the repository to your device.
