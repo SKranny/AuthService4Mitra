@@ -9,6 +9,8 @@
     - Spring WebClient
     - Spring Security
     - JWT
+    - Lombok
+    - Swagger
 ### How to run this appplication:
 #### Required Tools:
       - Docker, to create an application container.
